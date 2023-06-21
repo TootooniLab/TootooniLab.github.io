@@ -12,7 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 
 ## Lab Location
-Loyola University Chicago
+[Loyola University Chicago](https://luc.edu/)
 <br>
 [Health Sciences Campus](https://hsd.luc.edu/)
 <br>
