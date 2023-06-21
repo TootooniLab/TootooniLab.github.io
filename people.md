@@ -5,4 +5,6 @@ permalink: /people/
 ---
 
 **Dr. Mohammad Samie Tootooni**
-({{ site.baseurl }}/images/mtootooni.jpg)
+<figure>
+    <img src="({{ site.baseurl }}/images/mtootooni.jpg" />
+</figure>
