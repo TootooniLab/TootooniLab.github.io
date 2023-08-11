@@ -12,7 +12,7 @@ permalink: /people/
     </a>
 <figcaption>
     I am an Assistant Professor in the Department of Health Informatics and Data Science with a secondary appointment in the Center for Health Outcomes and Informatics Research at Loyola University Chicago. I received my PhD in Industrial and Systems Engineering (ISE) from Binghamton University in 2016. Prior to joining Loyola, I was a Postdoctoral Research Associate in the Department of Health Sciences Research at Mayo Clinic in Rochester, Minnesota, for two years.
-       My research lies in the intersection of decision science and artificial intelligence, which furthers knowledge of monitoring of and predictive analytics for complex healthcare systems. I am particularly interested in the role of data science and Artificial Intelligence tools such as Machine Learning and Natural Language Processing in development of clinical decision support models. Having an Industrial and Systems Engineering background, I am also interested to apply systems thinking, quality assurance, and optimization principles to improve health outcomes. Furthermore, I teach courses such as ontologies (knowledge representation) in health and Natural Language Processing.
+My research lies in the intersection of decision science and artificial intelligence, which furthers knowledge of monitoring of and predictive analytics for complex healthcare systems. I am particularly interested in the role of data science and Artificial Intelligence tools such as Machine Learning and Natural Language Processing in development of clinical decision support models. Having an Industrial and Systems Engineering background, I am also interested to apply systems thinking, quality assurance, and optimization principles to improve health outcomes. Furthermore, I teach courses such as ontologies (knowledge representation) in health and Natural Language Processing.
 </figcaption>
 </figure>
 <br>
@@ -38,7 +38,7 @@ permalink: /people/
         <img src="https://github.com/TootooniLab/TestRun23.github.io/blob/master/images/balasubramanian.jpeg" width="150px" height="150px" align="left" style="border-radius:20%"/>
     </a>
 <figcaption>
-    ​Hi! I’m Neelam Balasubramanian. I have a master’s in Health Informatics from Loyola University and bachelor’s in Biology with a specialization in Endocrinology from the University of Chicago. My interest is in creating implementable solutions to improve healthcare. I work on projects relating to clinical natural language processing and classification algorithms. I also have experience with biostatistics, electronic health record systems and data warehouses, and healthcare workflows
+    Hi! I’m Neelam Balasubramanian. I have a master’s in Health Informatics from Loyola University and bachelor’s in Biology with a specialization in Endocrinology from the University of Chicago. My interest is in creating implementable solutions to improve healthcare. I work on projects relating to clinical natural language processing and classification algorithms. I also have experience with biostatistics, electronic health record systems and data warehouses, and healthcare workflows
 </figcaption>
 </figure>
 <br>
@@ -78,7 +78,7 @@ permalink: /people/
         <img src="https://github.com/TootooniLab/TestRun23.github.io/blob/master/images/brown.jpeg" width="150px" height="150px" align="left" style="border-radius:20%"/>
     </a>
 <figcaption>
-   Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molecular Biology at Lincoln University, Pa, and I’m currently working on this advanced development platform, GitHub, for Dr.Tootooni's Lab, analyzing the uses and benefits that it can provide in an academic lab. Also, to determine how much more efficient it would make academic research. This project will be focused on the key features—Issues, Wiki, and Branches, examining their uses and benefits in an academic lab. Though I am currently working on this project, I also have the opportunity to learn about everyone's research in the lab. It is such an amazing experience that broadens my horizon on the different fields of science and also teaches me a lot about data science and Artificial intelligence.
+    Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molecular Biology at Lincoln University, Pa, and I’m currently working on this advanced development platform, GitHub, for Dr.Tootooni's Lab, analyzing the uses and benefits that it can provide in an academic lab. Also, to determine how much more efficient it would make academic research. This project will be focused on the key features—Issues, Wiki, and Branches, examining their uses and benefits in an academic lab. Though I am currently working on this project, I also have the opportunity to learn about everyone's research in the lab. It is such an amazing experience that broadens my horizon on the different fields of science and also teaches me a lot about data science and Artificial intelligence.
 
 </figcaption>
 </figure>
