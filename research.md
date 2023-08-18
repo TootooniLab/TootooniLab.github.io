@@ -23,6 +23,6 @@ The SHIELD Illinois program was created to prevent COVID transmission and provid
 
 ## ECG AI RESEARCH​​
 The United States has over 6 million adults suffering from heart failure, a condition with a high mortality rate and decreased quality of life. Early recognition and timely interventions are essential to reduce the risk of heart failure on individuals and the healthcare system as a whole. However, more than half of heart failure patients have preserved left ventricular ejection fraction (HFpEF), and current treatments mostly target reduced left ventricular ejection fraction (HFrEF). HFpEF is a heterogeneous syndrome with an unclear etiology, meaning that there are many causes for HFpEF and yet the causes are unclear. The goal of this project is to use artificial intelligence (AI) and electrocardiogram (ECG) data to predict incident HFpEF risk and subtype prevalent HFpEF in a cost-effective and accessible manner.
-![image5](https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/image6.jpeg)
+![image6](https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/image6.jpeg)
 Picture from Journal of Molecular and Cellular Cardiology
 
