@@ -20,10 +20,13 @@ This project analyzes possible influencing factors related to therapeutic inerti
 ## SHIELD ILLINOIS​​
 The SHIELD Illinois program was created to prevent COVID transmission and provide testing to communities in Illinois. It's impact on underrepresented populations and potential for guiding future pandemic response efforts however, require further investigation. Data from the SHIELD Illinois program, the Chicago Department of Public Health, and electronic health records from two major health centers in the Chicagoland area will be used alongside the COVID Community Vulnerability Index (CCVI) and the Area Deprivation Index (ADI) to determine how underrepresented communities benefit from the program. Our objective is to evaluate the effect of the SHIELD testing program on COVID severe outcomes such as admission to Intensive Care Unit (ICU), mechanical ventilation use, and death. Artificial Intelligence (AI) is then used to identify the most effective attributes related to the location of testing centers on the volume of the performed tests, which will provide guidance for future pandemic response planning. 
 ![image5](https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/image5.png?raw=true)
+<br>
+Image from University of Illinois System
 
 ## ECG AI RESEARCH​​
 The United States has over 6 million adults suffering from heart failure, a condition with a high mortality rate and decreased quality of life. Early recognition and timely interventions are essential to reduce the risk of heart failure on individuals and the healthcare system as a whole. However, more than half of heart failure patients have preserved left ventricular ejection fraction (HFpEF), and current treatments mostly target reduced left ventricular ejection fraction (HFrEF). HFpEF is a heterogeneous syndrome with an unclear etiology, meaning that there are many causes for HFpEF and yet the causes are unclear. The goal of this project is to use artificial intelligence (AI) and electrocardiogram (ECG) data to predict incident HFpEF risk and subtype prevalent HFpEF in a cost-effective and accessible manner.
 <br>
 ![image6](https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/image6.jpeg?raw=true)
+<br>
 Picture from Journal of Molecular and Cellular Cardiology
 
