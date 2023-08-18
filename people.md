@@ -51,7 +51,7 @@ My research lies in the intersection of decision science and artificial intellig
         <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/saban.jpeg?raw=true" width="150px" height="150px" align="left" style="border-radius:20%"/>
     </a>
 <figcaption>
-    I am currently working on a project that analyzes the contributing factors of therapeutic inertia within elderly hypertensive patients. My specific role involves linking geospatial determinants of health to patient addresses at census boundary levels. This, along with further contextual information from other aspects of the project will provide insight into whether the geospatial features of the location in which a patient resides has any influence on the occurrence of therapeutic inertia.
+    I am a graduate student with a BS in Biology at Loyola University Chicago, where I'm also pursuing a MS in Bioinformatics. I am currently a graduate intern in Dr. Tootooni's lab, where I am currently working on a project that analyzes the contributing factors of therapeutic inertia within elderly hypertensive patients. My specific role involves linking geospatial determinants of health to patient addresses at census boundary levels. This, along with further contextual information from other aspects of the project will provide insight into whether the geospatial features of the location in which a patient resides has any influence on the occurrence of therapeutic inertia.
 </figcaption>
 </figure>
 <br>
