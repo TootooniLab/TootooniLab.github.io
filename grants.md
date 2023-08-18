@@ -1,3 +1,9 @@
+---
+layout: page
+title: Grants
+permalink: /grants/
+---
+
 ## Extramural Research Grants-Funded
 
 2023 $25,000 Scaling Up AIDx: Assessing Feasibility and Impact on ICU Workflow via Mentorship for Implementers-in-Residence, Implementation Seed Award from the Institute for Translational Medicine 3.0 Dissemination and Implementation Cluster, PI, Team: Tootooni M.S. and Mollaei N.
