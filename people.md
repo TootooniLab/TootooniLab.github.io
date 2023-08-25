@@ -8,7 +8,7 @@ permalink: /people/
 
 <figure>
     <a href="../images/mtootooni.jpg">
-        <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/mtootooni.jpg?raw=true"  width="150px" height="150px" align="left" style="padding: 10px; float: right;"/>
+        <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/mtootooni.jpg?raw=true"  width="150px" height="150px" align="left" style="padding: 10px;"/>
     </a>
 <figcaption>
         I am an Assistant Professor in the Department of Health Informatics and Data Science with a secondary appointment in the Center for Health Outcomes and Informatics Research at Loyola University Chicago. I received my PhD in Industrial and Systems Engineering (ISE) from Binghamton University in 2016. Prior to joining Loyola, I was a Postdoctoral Research Associate in the Department of Health Sciences Research at Mayo Clinic in Rochester, Minnesota, for two years.
@@ -22,7 +22,7 @@ My research lies in the intersection of decision science and artificial intellig
 
 <figure>
     <a href="../images/mtootooni.jpg">
-        <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/mollaei.png?raw=true" width="150px" height="150px" align="left" style="padding: 10px; float: right;"/>
+        <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/mollaei.png?raw=true" width="150px" height="150px" align="left" style="padding: 10px;"/>
     </a>
 <figcaption>
         My research focuses on the use of Artificial Intelligence (AI) algorithms to prevent adverse health outcomes. I’m using Large Language Models (LLMs) to transform the field by extracting valuable insights from unstructured data, such as Electronic Health Records. By identifying crucial data points for population health management and clinical trials, I propose that LLMs can be helpful to facilitate the development of therapeutic Inertia.
