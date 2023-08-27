@@ -61,7 +61,7 @@ My research lies in the intersection of decision science and artificial intellig
 
 <figure>
 <a href="../images/mtootooni.jpg">
-        <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/hiura.jpeg?raw=true" width="150px" height="150px" align="left" style="border-radius:20%"/>
+        <img src="https://github.com/TootooniLab/TootooniLab.github.io/blob/master/images/hiura.jpeg?raw=true" width="150px" height="150px" align="left" style="padding: 10px;"/>
     </a>
 <figcaption>
         I am a Medical Student at Loyola University’s Stitch School of Medicine and my current project focuses on EMS-ED-Stroke. Life-saving treatments for strokes are time-sensitive and require rapid triage and transport to the appropriate stroke system of care. Prehospital data, recorded by Emergency Medical Services (EMS), can be used to develop early diagnosis tools, often using artificial intelligence (AI). By improving the quality and quantity of prehospital EMS data and ensuring its interoperability with Emergency Department (ED) data, AI-based clinical tools can be made more accurate, leading to earlier diagnosis of time-sensitive conditions such as stroke. Thus, I am excited for this project because we aim to characterize the availability and distributions of prehospital data, then examine the reliability of prehospital data by comparing EMS measurements with those acquired upon ED arrival.
